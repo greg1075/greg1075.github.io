@@ -1,0 +1,14 @@
+* {font-family: cursive}
+
+body {
+  color:blue
+}
+
+ h1; h2 {text-align: center}
+
+#pizzabox {
+  border: 1px dotted black;
+  padding: 8px;
+  mardgin: 50 px;
+  background-color: beige
+} 
